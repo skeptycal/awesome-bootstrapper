@@ -1,5 +1,7 @@
 # Mastering CSS
 
+> Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language like HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.
+
 ## Code style
 
 - 📖 [Key concepts for BEM syntax](https://en.bem.info/methodology/key-concepts/): BEM (Block, Element, Modifier) is a component-based approach to web development. The idea behind it is to divide the user interface into independent blocks. This makes interface development easy and fast even with a complex UI, and it allows reuse of existing code without copying and pasting.
