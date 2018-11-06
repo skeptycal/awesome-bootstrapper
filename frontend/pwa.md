@@ -4,4 +4,4 @@
 
 ## Important Notions
 
-- 📺 [Why Build Progressive Web Apps?](https://www.youtube.com/watch?v=1QILz1lAzWY).
+- 📺 [Why Build Progressive Web Apps?](https://www.youtube.com/watch?v=1QILz1lAzWY)
