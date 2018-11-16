@@ -11,3 +11,5 @@
 ## Cloudflare
 
 - 📺 [What is Cloudflare? SSL, Cache, CDN](https://www.youtube.com/watch?v=QdavwNKOtIE).
+
+- 📖 [Must Use Page Rules for Everyone](https://www.cloudflare.com/features-page-rules/must-use-page-rules/.)
