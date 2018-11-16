@@ -12,7 +12,9 @@
 
 ## Mindset
 
-- [TDD](frontend/tdd.md): Test-driven development is a software development process that relies on the repetition of a very short development cycle: requirements are turned into very specific test cases, then the software is improved to pass the new tests, only.
+- [Networking](mindset/networking.md): A computer network, or data network, is a digital telecommunications network which allows nodes to share resources. In computer networks, computing devices exchange data with each other using connections between nodes.
+
+- [TDD](mindset/tdd.md): Test-driven development is a software development process that relies on the repetition of a very short development cycle: requirements are turned into very specific test cases, then the software is improved to pass the new tests, only.
 
 ## Tooling
 
