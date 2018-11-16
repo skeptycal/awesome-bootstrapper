@@ -6,6 +6,8 @@
 
 - 📺 [DNS Explained](https://www.youtube.com/watch?v=72snZctFFtA).
 
+- 📺 [What Is A CDN And How Does It Work?](https://www.youtube.com/watch?v=nle1q0qSYmA).
+
 ## Cloudflare
 
 - 📺 [What is Cloudflare? SSL, Cache, CDN](https://www.youtube.com/watch?v=QdavwNKOtIE).
