@@ -15,3 +15,5 @@
 - 📖 [Use lazysizes to lazyload images](https://web.dev/fast/use-lazysizes-to-lazyload-images).
 
 - 📖 [Serve images with correct dimensions](https://web.dev/fast/serve-images-with-correct-dimensions).
+
+- 📖 [Use WebP images](https://web.dev/fast/serve-images-webp).
