@@ -13,3 +13,5 @@
 - 📖 [Replace animated GIFs with video for faster page loads](https://web.dev/fast/replace-gifs-with-videos)
 
 - 📖 [Use lazysizes to lazyload images](https://web.dev/fast/use-lazysizes-to-lazyload-images).
+
+- 📖 [Serve images with correct dimensions](https://web.dev/fast/serve-images-with-correct-dimensions).
