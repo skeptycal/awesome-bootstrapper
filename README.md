@@ -6,6 +6,8 @@
 
 - [CSS](frontend/css.md): Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language like HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.
 
+- [Performance](frontend/performance.md): Web performance refers to the speed in which web pages are downloaded and displayed on the user's web browser. Web performance optimization, or website optimization is the field of knowledge about increasing web performance.
+
 - [PWA](frontend/pwa.md): Progressive Web Apps are web applications that load like regular web pages or websites but can offer the user functionality such as working offline, push notifications, and device hardware access traditionally available only to native mobile applications.
 
 - [Vue.js](frontend/vue.md): Vue.js is an open-source JavaScript framework for building user interfaces. Integration into projects that use other JavaScript libraries is simplified with Vue because it is designed to be incrementally adoptable.
