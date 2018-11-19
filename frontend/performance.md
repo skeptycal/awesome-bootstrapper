@@ -11,3 +11,5 @@
 - 📖 [Use Imagemin to compress images](https://web.dev/fast/use-imagemin-to-compress-images).
 
 - 📖 [Replace animated GIFs with video for faster page loads](https://web.dev/fast/replace-gifs-with-videos)
+
+- 📖 [Use lazysizes to lazyload images](https://web.dev/fast/use-lazysizes-to-lazyload-images).
