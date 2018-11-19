@@ -17,3 +17,7 @@
 - 📖 [Serve images with correct dimensions](https://web.dev/fast/serve-images-with-correct-dimensions).
 
 - 📖 [Use WebP images](https://web.dev/fast/serve-images-webp).
+
+## JavaScript
+
+- 📖 [Apply instant loading with the PRPL pattern](https://web.dev/fast/apply-instant-loading-with-prpl).
