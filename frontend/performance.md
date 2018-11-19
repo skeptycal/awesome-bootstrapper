@@ -6,6 +6,8 @@
 
 - 📖 [Discover performance opportunities with Lighthouse](https://web.dev/fast/discover-performance-opportunities-with-lighthouse).
 
-## Images
+## Images & Videos
 
 - 📖 [Use Imagemin to compress images](https://web.dev/fast/use-imagemin-to-compress-images).
+
+- 📖 [Replace animated GIFs with video for faster page loads](https://web.dev/fast/replace-gifs-with-videos)
