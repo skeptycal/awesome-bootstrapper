@@ -12,6 +12,10 @@
 
 - [Vue.js](frontend/vue.md): Vue.js is an open-source JavaScript framework for building user interfaces. Integration into projects that use other JavaScript libraries is simplified with Vue because it is designed to be incrementally adoptable.
 
+## Languages
+
+- [JavaScript](languages/javascript.md): JavaScript, often abbreviated as JS, is a high-level, interpreted programming language. It is a language which is also characterized as dynamic, weakly typed, prototype-based and multi-paradigm. Alongside HTML and CSS, JavaScript is one of the three core technologies of the World Wide Web.
+
 ## Mindset
 
 - [Networking](mindset/networking.md): A computer network, or data network, is a digital telecommunications network which allows nodes to share resources. In computer networks, computing devices exchange data with each other using connections between nodes.
