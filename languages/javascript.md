@@ -1,0 +1,9 @@
+# Mastering Performance
+
+> JavaScript, often abbreviated as JS, is a high-level, interpreted programming language. It is a language which is also characterized as dynamic, weakly typed, prototype-based and multi-paradigm. Alongside HTML and CSS, JavaScript is one of the three core technologies of the World Wide Web.
+
+## Ecosystem
+
+- 📖 [State of JS for 2017](https://2017.stateofjs.com/2017/introduction).
+
+- 📖 [State of JS for 2018](https://2018.stateofjs.com/introduction/).
