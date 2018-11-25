@@ -5,3 +5,9 @@
 ## Books
 
 - 📖 [Sails.js in Action](https://www.amazon.com/Sails-js-Action-Mike-McNeil/dp/1617292613).
+
+## Authentication
+
+- 📖 [Building API Authentication from Scratch - Part 1](https://hellosails.com/building-api-authentication-from-scratch-part-1/).
+
+- 📖 [Building API Authentication from Scratch - Part 2](https://hellosails.com/building-api-authentication-from-scratch-part-2/).
