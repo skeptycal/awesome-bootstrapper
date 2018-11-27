@@ -14,6 +14,10 @@
 
 - 📖 [Building API Authentication from Scratch - Part 2](https://hellosails.com/building-api-authentication-from-scratch-part-2/).
 
+## Policies
+
+- 📖 [Understanding Sails.js Policies (plus example)](https://hellosails.com/understanding-sails-js-policies-plus-example-2/).
+
 ## Books
 
 - 📖 [Sails.js in Action](https://www.amazon.com/Sails-js-Action-Mike-McNeil/dp/1617292613).
