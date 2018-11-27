@@ -18,6 +18,10 @@
 
 - 📖 [Understanding Sails.js Policies (plus example)](https://hellosails.com/understanding-sails-js-policies-plus-example-2/).
 
+## Deployment
+
+- 📖 [Hosting your Sails.js Application - Heroku](https://hellosails.com/hosting-your-sails-js-application-heroku/)
+
 ## Books
 
 - 📖 [Sails.js in Action](https://www.amazon.com/Sails-js-Action-Mike-McNeil/dp/1617292613).
