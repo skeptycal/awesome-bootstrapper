@@ -8,7 +8,9 @@
 
 ## Introduction
 
-_ 📺 [Introduction to Sails.js](https://youtu.be/ZfPJEOwBP68).
+- 📺 [Introduction to Sails.js](https://youtu.be/ZfPJEOwBP68).
+
+- 📖 [Intro to Sails.js](https://hellosails.com/intro-to-sails-js/)
 
 ## Authentication
 
