@@ -24,6 +24,10 @@
 
 - 📖 [Hosting your Sails.js Application - Heroku](https://hellosails.com/hosting-your-sails-js-application-heroku/)
 
+## Testing
+
+- 📖 [Testing your code](https://sailsjs.com/documentation/concepts/testing).
+
 ## Books
 
 - 📖 [Sails.js in Action](https://www.amazon.com/Sails-js-Action-Mike-McNeil/dp/1617292613).
