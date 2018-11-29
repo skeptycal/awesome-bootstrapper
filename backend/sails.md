@@ -14,6 +14,8 @@
 
 - 📖 [Building API Authentication from Scratch - Part 2](https://hellosails.com/building-api-authentication-from-scratch-part-2/).
 
+- 📖 [Implement Passport.js authentication with Sails.js 1.0](https://medium.com/@greg.hesp/implement-passport-js-authentication-with-sails-js-1-0-50888265fb83).
+
 ## Policies
 
 - 📖 [Understanding Sails.js Policies (plus example)](https://hellosails.com/understanding-sails-js-policies-plus-example-2/).
