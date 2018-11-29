@@ -17,3 +17,7 @@
 ## Mocha & Chai
 
 - [Quick Introduction: Mocha, Chai and Chai-http Test Express API Auth Endpoints](https://blog.khophi.co/mocha-chai-chai-http-test-express-api-auth-endpoints/).
+
+## Mocking
+
+- [Node.js Tests: Mocking HTTP Requests](https://scotch.io/tutorials/nodejs-tests-mocking-http-requests).
