@@ -13,3 +13,7 @@
 - 📖 [Types of software Testing](http://www.softwaretestinghelp.com/types-of-software-testing/).
 
 - 📺 [What is code coverage?](https://www.youtube.com/watch?v=uDmdlmdVhL8)
+
+## Mocha & Chai
+
+- [Quick Introduction: Mocha, Chai and Chai-http Test Express API Auth Endpoints](https://blog.khophi.co/mocha-chai-chai-http-test-express-api-auth-endpoints/).
