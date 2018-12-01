@@ -11,3 +11,7 @@
 - 📖 [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/index.html).
 
 - 📖 [Git Branching - Basic Branching and Merging](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging).
+
+## Cool tricks
+
+- 📖 [Run npm scripts in a git pre-commit Hook](https://elijahmanor.com/npm-precommit-scripts/).
