@@ -40,6 +40,8 @@
 
 ## YouTube Channels
 
+- 📺 [Vue Mastery](https://www.youtube.com/channel/UCa1zuotKU4Weuw_fLRnPv0A).
+
 - 📺 [VueConf EU](https://www.youtube.com/channel/UC9dJjbYeXjirDYYVfUD3bSw).
 
 - 📺 [Vue NYC](https://www.youtube.com/channel/UCX4w2P-M4cuWQG0WKgU3TTQ).
