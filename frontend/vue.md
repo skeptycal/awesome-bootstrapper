@@ -34,6 +34,10 @@
 
 - ⁉️ [Vuex | How to commit a global mutation in a module action?](https://stackoverflow.com/questions/44618440/vuex-how-to-commit-a-global-mutation-in-a-module-action)
 
+## VuePress
+
+- 📺 [VuePress: Documentation made easy](https://youtu.be/fkrQJzP3Yl4).
+
 ## YouTube Channels
 
 - 📺 [VueConf EU](https://www.youtube.com/channel/UC9dJjbYeXjirDYYVfUD3bSw).
