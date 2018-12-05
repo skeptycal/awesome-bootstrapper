@@ -16,6 +16,8 @@
 
 - 📖 [Implement Passport.js authentication with Sails.js 1.0](https://medium.com/@greg.hesp/implement-passport-js-authentication-with-sails-js-1-0-50888265fb83).
 
+- 📖 [How To Implement Password Reset In Node.js](http://sahatyalkabov.com/how-to-implement-password-reset-in-nodejs/)
+
 ## Policies
 
 - 📖 [Understanding Sails.js Policies (plus example)](https://hellosails.com/understanding-sails-js-policies-plus-example-2/).
