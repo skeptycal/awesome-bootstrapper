@@ -40,6 +40,10 @@
 
 - 📺 [VuePress: Documentation made easy](https://youtu.be/fkrQJzP3Yl4).
 
+## Vue CLI
+
+- 📖 [Vue CLI Official documentation](https://cli.vuejs.org/).
+
 ## YouTube Channels
 
 - 📺 [Vue Mastery](https://www.youtube.com/channel/UCa1zuotKU4Weuw_fLRnPv0A).
