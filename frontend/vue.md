@@ -36,6 +36,8 @@
 
 - ⁉️ [Vuex | How to commit a global mutation in a module action?](https://stackoverflow.com/questions/44618440/vuex-how-to-commit-a-global-mutation-in-a-module-action)
 
+- 📖 [Handling Authentication In Vue Using Vuex](https://scotch.io/tutorials/handling-authentication-in-vue-using-vuex).
+
 ## VuePress
 
 - 📺 [VuePress: Documentation made easy](https://youtu.be/fkrQJzP3Yl4).
