@@ -14,6 +14,8 @@
 
 - 📖 [Building Large-Scale Vue.JS Application](https://stories.scandiweb.com/building-large-scale-vue-js-application-fec63b6e71e5).
 
+- 📖 [Understanding environments in VueJS](https://medium.com/the-andela-way/understanding-environments-in-vuejs-74e94a139b8b)
+
 - ⁉️ [Why is it considered poor practice to use Axios or HTTP calls in components?](https://stackoverflow.com/questions/45839198/why-is-it-considered-poor-practice-to-use-axios-or-http-calls-in-components)
 
 ## Code splitting
