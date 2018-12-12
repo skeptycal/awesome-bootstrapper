@@ -18,9 +18,13 @@
 
 - ⁉️ [Why is it considered poor practice to use Axios or HTTP calls in components?](https://stackoverflow.com/questions/45839198/why-is-it-considered-poor-practice-to-use-axios-or-http-calls-in-components)
 
-## Code splitting
+## Components
 
-- 📺 [Sean Larkin - Code splitting patterns in Vue.js](https://www.youtube.com/watch?v=rn97hCNQsKI).
+- 📖 [Adding v-model Support to Custom Vue.js Components](https://alligator.io/vuejs/add-v-model-support/).
+
+## Authentication
+
+- 📖 [Handling Authentication In Vue Using Vuex](https://scotch.io/tutorials/handling-authentication-in-vue-using-vuex).
 
 ## NativeScript
 
@@ -38,11 +42,13 @@
 
 - ⁉️ [Vuex | How to commit a global mutation in a module action?](https://stackoverflow.com/questions/44618440/vuex-how-to-commit-a-global-mutation-in-a-module-action)
 
-- 📖 [Handling Authentication In Vue Using Vuex](https://scotch.io/tutorials/handling-authentication-in-vue-using-vuex).
-
 ## VuePress
 
 - 📺 [VuePress: Documentation made easy](https://youtu.be/fkrQJzP3Yl4).
+
+## Code splitting
+
+- 📺 [Sean Larkin - Code splitting patterns in Vue.js](https://www.youtube.com/watch?v=rn97hCNQsKI).
 
 ## Vue CLI
 
