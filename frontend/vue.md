@@ -22,6 +22,8 @@
 
 - 📖 [Adding v-model Support to Custom Vue.js Components](https://alligator.io/vuejs/add-v-model-support/).
 
+- 📖 [Creating Vue.js Component Instances Programmatically](https://css-tricks.com/creating-vue-js-component-instances-programmatically/).
+
 ## Authentication
 
 - 📖 [Handling Authentication In Vue Using Vuex](https://scotch.io/tutorials/handling-authentication-in-vue-using-vuex).
