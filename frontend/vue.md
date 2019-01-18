@@ -48,9 +48,11 @@
 
 - 📺 [VuePress: Documentation made easy](https://youtu.be/fkrQJzP3Yl4).
 
-## Code splitting
+## Performance
 
 - 📺 [Sean Larkin - Code splitting patterns in Vue.js](https://www.youtube.com/watch?v=rn97hCNQsKI).
+
+- 📖 [Avoiding Memory Leaks](https://vuejs.org/v2/cookbook/avoiding-memory-leaks.html).
 
 ## Vue CLI
 
