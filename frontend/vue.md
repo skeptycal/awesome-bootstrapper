@@ -28,6 +28,8 @@
 
 - 📖 [Handling Authentication In Vue Using Vuex](https://scotch.io/tutorials/handling-authentication-in-vue-using-vuex).
 
+- 📖 [Structuring a Vue project : Authentication](https://medium.com/@zitko/structuring-a-vue-project-authentication-87032e5bfe16)
+
 - 📖 [Route Meta Fields](https://router.vuejs.org/guide/advanced/meta.html).
 
 ## NativeScript
