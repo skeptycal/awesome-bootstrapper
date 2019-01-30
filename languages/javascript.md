@@ -11,3 +11,7 @@
 - 📖 [State of JS for 2017](https://2017.stateofjs.com/2017/introduction).
 
 - 📖 [State of JS for 2018](https://2018.stateofjs.com/introduction/).
+
+# NPM
+
+- 📖 [npm-link: symlink a package folder](https://docs.npmjs.com/cli/link.html).
